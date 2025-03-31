@@ -9,9 +9,8 @@ This assignment involves the exploration, cleaning, and analysis of a dataset th
 
 ## Phase I - Completed
 
-## Phase II - Left to complete 
-
-
+## Phase II - Completed
+ 
 ## GitHub Link
 The completed work for Phase I has been uploaded to the GitHub repository. [https://github.com/Vishnu714/EDA_BDS0327/blob/main/21BDS0327.ipynb]
 
